@@ -1,22 +1,22 @@
-#Objective
+# Objective
 
 This EDA aims to analyze our institution's loan portfolio data to make informed decisions regarding loan approvals, pricing strategies, and risk management.
 
 ##Importance
 
-Improve decision-making for loan approvals
-Identify and manage risks associated with loans
-Optimize loan pricing strategies for profitability
-Assess return on investment for different loan types
-Scope
+- Improve decision-making for loan approvals
+- Identify and manage risks associated with loans
+- Optimise loan pricing strategies for profitability
 
-Data: Utilize our loan portfolio dataset containing loan types, customer demographics, amounts, rates, terms, and default rates.
+
+
+Data: Utilise our loan portfolio dataset containing loan types, customer demographics, amounts, rates, terms, and default rates.
 
 Methodology: Involve data cleaning, descriptive stats, visualization, correlation analysis, and actionable insights.
 
 Goals: Uncover patterns, assess risk, and evaluate loan performance based on historical data.
 
-##Approach
+## Approach
 
 Data Cleaning: Handle missing values, outliers, and inconsistencies.
 Descriptive Statistics: Understand data tendencies and distributions.
@@ -38,11 +38,11 @@ Improved profitability through optimised loan pricing
 
 
 
-##Future Work
+## Future Work
 
 
 
-##License
+## License
 
 Shared under the MIT license.
 
