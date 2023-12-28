@@ -45,8 +45,10 @@ Possible future enhancements include incorporating machine learning models for f
 
 ## File Structure
 - YAML file with credentials (not shown due to git ignore)
-- Jupyter Notebook files for analysis
-- Additional documentation
+- dates: The completed project file
+- milestone1-2: milestones 1 & 2 from the project guide - setting up the enviroment and extracting the data from the cloud
+- milestone 3: Explortary data analysis
+- milestone 4: Analysis and visualisation
 
 ## License
 Shared under the MIT license.
